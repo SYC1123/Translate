@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<!--平移动画的x,y起始位置-->
+<translate
+    android:fromXDelta="0"
+    android:toXDelta="500"
+    android:fromYDelta="0"
+    android:toYDelta="500"
+    />
+</set>
